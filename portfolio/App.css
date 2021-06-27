@@ -1,0 +1,53 @@
+.main {
+  height: 500px;
+  width: 700px;
+  background-color: aqua;
+  text-align: justify;
+  padding: 2rem 3rem;
+  /* place-items: center; */
+  display: grid;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+.home h2 {
+  text-align: center;
+}
+
+.home p {
+  margin-top: 50px;
+  justify-content: center;
+}
+.body {
+  background-image: url("https://previews.123rf.com/images/scanrail/scanrail1209/scanrail120900005/15141764-creative-photo-gallery-concept-collection-of-colorful-photos-on-background-made-from-wooden-planks-a.jpg");
+  height: 700px;
+
+  margin: 0;
+  padding: 40px 100px;
+}
+.exp h2 {
+  text-align: center;
+}
+
+.table {
+  margin-top: 30px;
+}
+
+.tbody tr {
+  margin-top: 30px;
+}
+
+.exp ul {
+  margin: 30px;
+}
+.contact h2 {
+  text-align: center;
+}
+
+.btn {
+  background-color: rgb(17, 13, 236);
+  color: white;
+  padding: 10px 20px;
+  font-size: medium;
+  place-items: center;
+}
